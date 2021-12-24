@@ -105,3 +105,9 @@ of 768px
 
 * <div class="col-md">
 Meaning the columns will get stacked when the the screen hits md or smaller
+
+* class h1 can be used to make the 
+item bigger
+
+* Dummy text can be brought by using lorem10
+or lorem15
