@@ -59,3 +59,17 @@ the size
 
 * <div class="d-sm-flex"> which makes the contents
 not flex in small screen
+
+* <p class="lead"> = This will help to 
+make the text appear bigger
+
+* <section class="bg-dark text-light p-5 text-center text-sm-start">
+Here, text-sm-start means the text will be centered when the screen is 
+small. Otherwise it will be left aligned
+
+* <img class="d-none"> will make the
+the image disappear
+
+* class="img-fluid w-50 d-none d-sm-block"
+will make the image disappear in small screen
+with the help of d-sm-block
