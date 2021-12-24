@@ -27,3 +27,35 @@ for padding
 
 * collapse navbar-collapse -> this is for navbar
 collapsing when size gets smaller
+
+* <ul class="navbar-nav ms-auto"> for
+ moving the menu to the right
+
+ * Hamburger Menu Button
+
+ * data-bs-toggle = the navbar to collapse
+
+ * data-bs-target = to some kind of target
+
+* The above two things are known as attributes
+
+* padding highest value = 5
+
+* pt = padding top
+* pb = padding bottom
+* px = padding x-axis
+* py = padding y-axis
+* p = padding all over
+
+
+* class="d-flex" two tags side by
+side in a row
+
+* Image will break out of the container
+For that class="img-fluid" in <img>
+
+* class="img-fluid w-50" which will make it half
+the size
+
+* <div class="d-sm-flex"> which makes the contents
+not flex in small screen
