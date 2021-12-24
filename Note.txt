@@ -73,3 +73,35 @@ the image disappear
 * class="img-fluid w-50 d-none d-sm-block"
 will make the image disappear in small screen
 with the help of d-sm-block
+
+* <div class="d-sm-flex align-items-center 
+justify-content-between">
+
+This helps the contents to be in center and
+create space among them. The text will put into
+the center of the image 
+align-items-center = Text Content to be put into
+the center
+justify-content-between = creates a space two content
+
+* d-md-flex = it will not break until the screen is medium
+
+* <h3 class="mb-3 mb-md-0">
+This makes the margin bottom 0 when the screen is medium
+
+* pt-lg-5 = when the screen is large 
+padding top will be 5
+
+
+* @media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+It is media query used in css 
+Meaning the class content will be of width 50% over the width
+of 768px
+
+* <div class="col-md">
+Meaning the columns will get stacked when the the screen hits md or smaller
