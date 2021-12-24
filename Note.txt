@@ -14,3 +14,16 @@ background
 
 * In div just write use dot to get the
 class name
+
+* If I press dot [class name] then div
+will open
+
+* If tag.[class-name]. Then the class will
+appear in the tag
+
+* class="contaner" could be the replacement
+for padding
+
+
+* collapse navbar-collapse -> this is for navbar
+collapsing when size gets smaller
