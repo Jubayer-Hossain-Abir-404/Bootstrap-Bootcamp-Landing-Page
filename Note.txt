@@ -1,0 +1,16 @@
+* With CDN Link Bootstrap can not be customized
+
+* In order to edit one needs Source Files( Saas Files)
+
+* In bootstrap5 there is no need to add jquery file
+
+* navbar navbar-expand-lg bg-dark navbar-dark
+Here, expand-lg = If the page crosses the large point 
+hamburger menu will show up
+
+bg-dark = for dark background
+navbar-dark = for light text in a dark
+background
+
+* In div just write use dot to get the
+class name
