@@ -111,3 +111,6 @@ item bigger
 
 * Dummy text can be brought by using lorem10
 or lorem15
+
+* <div class="row text-center g-4">
+for creating a gap between grid contents
