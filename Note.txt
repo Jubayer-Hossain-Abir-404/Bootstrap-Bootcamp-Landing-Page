@@ -135,3 +135,12 @@ height:60px. Basically, it will add a ghost element of 60 px
 
 * To change all the same text at the same time
 mark the text and use ctrl + d
+
+* section#instructors.p-5.bg-primary
+
+To get the tag with id and class
+
+
+* <div class="col-md-6 col-lg-3">
+In medium screen it will have a column of two
+and in large screen it will have a column of three
