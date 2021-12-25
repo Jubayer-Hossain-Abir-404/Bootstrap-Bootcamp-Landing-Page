@@ -114,3 +114,24 @@ or lorem15
 
 * <div class="row text-center g-4">
 for creating a gap between grid contents
+
+* <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+use fixed-top to to get the navbar constantly over the places
+
+* body::before{
+    display:block;
+    content: '';
+    height:60px;
+}
+
+Here, body then a pseudo selector before
+When before is used content should be added
+No content was added that's why it's empty
+height:60px. Basically, it will add a ghost element of 60 px
+
+
+* Accordion
+
+
+* To change all the same text at the same time
+mark the text and use ctrl + d
